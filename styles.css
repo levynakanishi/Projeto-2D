@@ -1,4 +1,23 @@
-h1 {
-    color: red; 
-    text-align: center; 
+footer {
+    text-align: center;
+    background: url(https://github.com/dgouvvea/Img/blob/main/A/bg.jpg?raw=true);
+    padding: 20px;
+    color: white;
+}
+
+.body{
+    background-color: rgb(10,10,26);
+    color: rgb(200, 220, 230);
+}
+.imagem{
+    width: 80%;
+    max-width: 120px;
+    margin: 0 auto;
+}
+.principal{
+    color: rgb(200, 220, 230);
+    text-align: center
+}
+.beneficios{
+  color: rgb(240,170,170);
 }
