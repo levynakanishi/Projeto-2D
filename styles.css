@@ -6,7 +6,7 @@ footer {
 }
 
 .body{
-    background-color: rgb(10,10,26);
+    background-color: rgb(60,60,86);
     color: rgb(200, 220, 230);
 }
 .imagem{
@@ -15,9 +15,11 @@ footer {
     margin: 0 auto;
 }
 .principal{
+    background-color: rgb(60,60,86);
     color: rgb(200, 220, 230);
     text-align: center
 }
 .beneficios{
+    background-color: rgb(60,60,86);
   color: rgb(240,170,170);
 }
